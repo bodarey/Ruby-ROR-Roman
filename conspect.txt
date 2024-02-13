@@ -1,0 +1,13 @@
+1.class
+
+String
+Fixnum
+Float
+Array
+Hash
+
+a = gets.to_i
+a = gets.to_s
+a = gets.to_f
+
+
