@@ -10,4 +10,15 @@ a = gets.to_i
 a = gets.to_s
 a = gets.to_f
 
+---------------------4 lesson------------------
+a= gets.chomp  otrezaet spetialinie simvoli
+str = gets
+str.chomp!
+x.methods  show the methods of object
+
+
+
+
+
+
 
