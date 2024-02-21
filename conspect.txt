@@ -16,6 +16,7 @@ str = gets
 str.chomp!
 x.methods  show the methods of object
 https://ruby-doc.org/core-2.5.1/String.html  ruby doc
+---------------------5 lesson---------------
 
 
 
