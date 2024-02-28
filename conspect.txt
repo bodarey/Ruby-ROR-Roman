@@ -1,3 +1,7 @@
+install rbenv ruby and rails
+https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04
+------------------------------------------------------------------------------------------------------------
+
 1.class
 
 String
@@ -17,6 +21,7 @@ str.chomp!
 x.methods  show the methods of object
 https://ruby-doc.org/core-2.5.1/String.html  ruby doc
 ---------------------5 lesson---------------
+ gem install name_of_game --user-install   pentru instalare pe user path
 
 
 
