@@ -1,14 +1,16 @@
+# frozen_string_literal: true
+
 x = 0
-10.times do |i|
-   10.times do |j|
-	x +=1
-   end
+10.times do |_i|
+  10.times do |_j|
+    x += 1
+  end
 end
 
 print x
 
 puts "\n------------------"
 
-10.times do |x|
-   puts "!" * x
+10.times do |xx|
+  puts '!' * xx
 end
