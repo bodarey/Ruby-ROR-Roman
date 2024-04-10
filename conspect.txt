@@ -29,6 +29,8 @@ end
 ----------------------
 is_a?  # compara daca tipul de obiect apartine altui obiect A.is_a?(Array)
 ----------------------
+ruby app.rb > file.txt inscrie in fisier
+ruby app.rb >> file.txt adauga in fisier 
 
 
 
