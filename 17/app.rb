@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 f = File.open 'test.txt', 'r'
 arr = []
 s = ''
@@ -5,7 +7,7 @@ while (line = f.gets)
   l = line.split(',')
   arr << l[1].to_i
   l[1] = 100 if l[0].strip == 'Апрель'
-  s += l[0].strip + ',' + l[1].to_s.strip + "\n"
+  s += "#{l[0].strip},#{l[1].to_s.strip}\n"
 end
 
 f.close
