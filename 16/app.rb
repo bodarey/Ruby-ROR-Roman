@@ -1,19 +1,13 @@
-
 class Manager
-
-def self.say_hi
-puts 'hi'
+  def self.say_hi
+    puts 'hi'
+  end
 end
-
-end
-
 
 class Hipster
-
-def self.say_hi
-puts 'hi'
-end
-
+  def self.say_hi
+    puts 'hi'
+  end
 end
 
 Hipster.say_hy

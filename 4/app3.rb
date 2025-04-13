@@ -1,7 +1,7 @@
-puts "enter  a number:"
+puts 'enter  a number:'
 x = gets.to_i
-puts "enter a string:"
+puts 'enter a string:'
 str = gets.chomp
-str ="#{str} "
-puts " string * x times is:"
+str = "#{str} "
+puts ' string * x times is:'
 print str * x

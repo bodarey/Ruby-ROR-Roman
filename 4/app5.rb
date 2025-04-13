@@ -1,1 +1,1 @@
-100.times {|i| puts "#{i}"}
+100.times { |i| puts "#{i}" }

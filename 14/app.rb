@@ -34,4 +34,4 @@ b = Book.new
 
 b.add_person
 b.show_hash
-puts  "last element of hh is:   #{b.last_person}"
+puts "last element of hh is:   #{b.last_person}"

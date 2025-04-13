@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require_relative 'app1'
 
 artist = Artist.new 'new artist'

@@ -1,5 +1,5 @@
-puts "enter voltage:"
+puts 'enter voltage:'
 v = gets.to_f
-puts "enter resistance:"
+puts 'enter resistance:'
 r =  gets.to_f
-puts "I=U/R : I = #{v/r}"
+puts "I=U/R : I = #{v / r}"

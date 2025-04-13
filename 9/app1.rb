@@ -1,8 +1,9 @@
-a =[]
+a = []
 puts 'please enter your favorite calors:'
-while ( str = gets.strip;  )
-    break if str == 'stop'
-    a << str
+while (str = gets.strip;)
+  break if str == 'stop'
+
+  a << str
 
 end
 puts '---------------------'
